@@ -1,51 +1,28 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Data Engineer Roadmap
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de um roadmap para a carreira de engenharia de dados utilizando a inteligência artificial. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT ( OpenAI )
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente solicitei para o chatgpt a criação de um roadmap para a carreira de engenharia de dados. O resultado inicial me deu a idéia de solicitar a criação de um roadmap seguindo o padrão de um jogo de tabuleiro no estilo "Início e Chegada". Na terceira interação com o chatGPT , solicitei que corrigisse erros ortográficos e colocasse corretamente o nome das tecnologias utilizadas no roadmap. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Imagem 1:
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+![image](https://github.com/user-attachments/assets/bd0dd1d0-d154-4d3a-8c2f-2389dd22deb3)
 
-### Exemplos e Insigths
+Imagem 2: 
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+![image](https://github.com/user-attachments/assets/5b28bfd4-c87f-4757-8806-7148cac44dfc)
 
-## Links Interessantes
+Imagem Final: 
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+![image](https://github.com/user-attachments/assets/5b9e1d46-bf7f-4bed-b0d9-e95e883307e2)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
+
+## 💭 Reflexão 
+È notório que , por não utilizar o plano Plus do ChatGPT as imagens ainda são geradas com uma dificuldade na sua visualização. Creio que se tivesse utilizado uma AI mais voltada para a parte de geração de imagens o resultado ficaria mais satisfatório.
